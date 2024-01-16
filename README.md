@@ -1,8 +1,11 @@
 
-
 # tools
 
 ## bash
+
+### choose_default_os.sh
+
+If you are running a dual boot PC; this will let you choose the default option when loading the os.
 
 ### get_git_branch.sh
 
