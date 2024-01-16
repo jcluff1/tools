@@ -1,6 +1,8 @@
+
+
 # tools
 
-## baSH
+## bash
 
 ### get_git_branch.sh
 
